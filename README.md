@@ -13,7 +13,6 @@ Fork the repository at
 
 https://github.com/valfragier16/git-demo-repo
 
-<br>
 To fork the repo click Fork in the Right corner of your repositiory.
 <br>
 <img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" alt="Github fork button">
