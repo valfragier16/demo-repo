@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1naeKnJGKVR22UrcNk3jpslysDaSZanp9HinpzaxF
 ### Step 1
 Fork the repository at
 
-https://github.com/`your_username`/git-demo-repo
+https://github.com/valfragier16/git-demo-repo
 
 *** if working with a team add collaborators via Repository Settings -> Manage Access -> Invite Collaborators. Once they have accepted the invitiation they can edit and commit changes to your repo.
 
@@ -22,7 +22,7 @@ https://github.com/`your_username`/git-demo-repo
 Navagate to whatever directory you plan on using for your root development directory.  If you're using a separate directory for microlabs go there.  Essentially, just go to where you would normally want to keep all of your work.  From there, clone your fork.
 
 ```
-git clone https://github.com/valfragier16/git-demo-repo.git
+git clone https://github.com/your_username/git-demo-repo.git
 ```
 
 You should now have `git-demo-repo` in your directory.
