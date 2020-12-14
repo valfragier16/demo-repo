@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1naeKnJGKVR22UrcNk3jpslysDaSZanp9HinpzaxF
 ### Step 1
 Fork the repository at
 
-https://github.com/valfragier16/git-demo-repo
+https://github.com/`your_username`/git-demo-repo
 
 *** if working with a team add collaborators via Repository Settings -> Manage Access -> Invite Collaborators. Once they have accepted the invitiation they can edit and commit changes to your repo.
 
