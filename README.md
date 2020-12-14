@@ -54,7 +54,7 @@ git pull origin main
 ```
 
 ### Step 5
-Edit the `sharingCircle.txt.`file by adding something you learned or proud of in relation to the program, followed by your name at the end. Follow the syntax of what is already in the file.
+Edit the `sharingCircle.txt`file by adding something you learned or proud of in relation to the program, followed by your name at the end. Follow the syntax of what is already in the file.
 <hr/>
 
 ### Step 6
