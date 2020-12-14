@@ -54,12 +54,12 @@ git pull origin main
 ```
 
 ### Step 5
-Edit the `sharingCircle.txt`file by adding something you learned or proud of in relation to the program, followed by your name at the end. Follow the syntax of what is already in the file.
+Edit the `sharingCircle.txt` file by adding something you learned or proud of in relation to the program, followed by your name at the end. Follow the syntax of what is already in the file.
 <hr/>
 
 ### Step 6
 Check the status.  Notice that the `sharingCircle.txt` file has been modified.
-Make sure you save your changes, and commit it with the message "<Your Name> edited the File".
+Make sure you save your changes, and commit it with the message "Your_Name edited the File".
 Run the following:
 
 Stage your changes

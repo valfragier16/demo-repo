@@ -1,0 +1,1 @@
+I learned about conventional commits via a podcast that Anthony Smith shared in the general slack channel, which would be more informative when making commits in the future. - Valerie Fragier (Instructor)
