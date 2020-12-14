@@ -33,7 +33,7 @@ Create a new branch in that project and check that out.
 Run the following command:
 
 ```
-git checkout -b <Your Branch Name>
+git checkout -b <Your_Branch_Name>
 ```
 The comments in the terminal should inform you that the branch has been switched to your branch
 <hr/>
