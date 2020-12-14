@@ -74,6 +74,11 @@ Now go to your github repository for this project , or follow the link that is p
 Create a pull request to merge your code changes into main branch.
 <br>
 <img src="https://soshace.com/wp-content/uploads/2020/01/create-pull-request.gif" alt="Create Pull Request GIF">
+
+<br>
+Successful merge into main would look something like this:
+
+<img src="https://alexwlchan.net/images/2019/github_actions_merge.png" alt="Successful GitHub Merge">
 <hr/>
 
 ### Step 9
@@ -81,10 +86,6 @@ Once your branch has been merged into main, view the branches and see the code c
 <br>
 <img src="https://github.blog/wp-content/uploads/2018/05/40565028-01ec5f98-6039-11e8-8bbf-8d1e2fe144d8.gif?fit=854%2C480" alt="Review code changes/branches">
 
-<br>
-Successful merge into main would look something like this:
-
-<img src="https://camo.githubusercontent.com/8db3af7bd719d32623a8a28028159217fcefa68888c81bd9257bd429df817174/68747470733a2f2f70617363616c676e2e6769746875622e696f2f6175746f6d657267652d616374696f6e2f73637265656e73686f742e737667" alt="Successful GitHub Merge">
 <hr/>
 
 ### Step 10
