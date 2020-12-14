@@ -12,6 +12,10 @@ https://docs.google.com/presentation/d/1naeKnJGKVR22UrcNk3jpslysDaSZanp9HinpzaxF
 Fork the repository at
 
 https://github.com/valfragier16/git-demo-repo
+
+*** if working with a team add collaborators via Repository Settings -> Manage Access -> Invite Collaborators. Once they have accepted the invitiation they can edit and commit changes to your repo.
+
+<img src="https://i.stack.imgur.com/QRVQI.gif" alt="Add Collaborators GIF">
 <hr/>
 
 ### Step 2
