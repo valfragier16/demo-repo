@@ -13,6 +13,16 @@ Fork the repository at
 
 https://github.com/valfragier16/git-demo-repo
 
+<br>
+To fork the repo click Fork in the Right corner of your repositiory.
+
+<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" alt="Github fork button">
+
+<br>
+
+#### Step 1.5
+<img src="https://tahoeninjas.blog/wp-content/uploads/2019/08/forkingrepo.gif" alt="Creat Fork GIF">
+
 *** if working with a team add collaborators via Repository Settings -> Manage Access -> Invite Collaborators. Once they have accepted the invitiation they can edit and commit changes to your repo.
 
 <img src="https://i.stack.imgur.com/QRVQI.gif" alt="Add Collaborators GIF">
