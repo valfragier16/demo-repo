@@ -2,6 +2,8 @@ I learned about conventional commits via a podcast that Anthony Smith shared in 
 
 I learned that just because git-Desktop is easier, it doesn't make it better. Mr. Jeff
 
+I leearnd to add Existing project to a GitHub Repository. Mat Cintron
+
 Today I learned that I really don't like git bash. Mr. Jeff
 
 I learned that JavaScript hoists function declarations. Amatullah
