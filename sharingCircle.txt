@@ -11,3 +11,4 @@ Today I learned that 9 equals 10. Mr. Jeff
 I learned that JavaScript hoists function declarations. Amatullah
 
 Today I am working on my first Pull Request. Andre Logan
+Val and Mr. Jeff I learned that the demo from Mondays class was very helpful and due to that I was able to commit and push my Resume lab as well as this lab. Kendell Jones
