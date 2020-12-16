@@ -4,4 +4,7 @@ I learned that just because git-Desktop is easier, it doesn't make it better. Mr
 
 Today I learned that I really don't like git bash. Mr. Jeff
 
+I learned that JavaScript hoists function declarations. Amatullah
+
 Today I am working on my first Pull Request. Andre Logan
+
