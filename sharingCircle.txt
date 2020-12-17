@@ -11,4 +11,8 @@ Today I learned that 9 equals 10. Mr. Jeff
 I learned that JavaScript hoists function declarations. Amatullah
 
 Today I am working on my first Pull Request. Andre Logan
+
 this has been an interesting week Nkenna 
+
+Today I learned that forking and cloning aren't as difficult as I had previously thought. Kim Chase
+
