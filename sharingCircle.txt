@@ -12,6 +12,8 @@ I learned that JavaScript hoists function declarations. Amatullah
 
 Today I am working on my first Pull Request. Andre Logan
 
+Val and Mr. Jeff I learned that the demo from Mondays class was very helpful and due to that I was able to commit and push my Resume lab as well as this lab. Kendell Jones
+
 this has been an interesting week Nkenna 
 
 Today I learned that forking and cloning aren't as difficult as I had previously thought. Kim Chase
